@@ -1,0 +1,4 @@
+CREATE TABLE CHAMP_HI (
+	id	INTEGER,
+	name VARCHAR2(100);
+);
